@@ -1,0 +1,4 @@
+nombre_pagador;descripcion_pago;monto_a_pagar;fecha_limite_de_pago
+Byron;Primero;25000;02/08/2025
+Pedro;Segundo;35000;02/08/2026
+Juan;Tercero;45000;02/08/2027
